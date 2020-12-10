@@ -39,7 +39,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Home-Roundhay\/ma.json"
+                 "value":"..\/Home-Roundhay\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
