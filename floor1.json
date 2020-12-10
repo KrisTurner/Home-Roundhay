@@ -39,7 +39,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Home-Roundhay\/map.json"
+                 "value":"..\/Home-Roundhay\/Beechwood.json"
                 }],
          "type":"tilelayer",
          "visible":true,
