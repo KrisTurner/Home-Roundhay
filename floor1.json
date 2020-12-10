@@ -39,7 +39,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"\"The Study\""
+                 "value":"floor-1-the-study"
                 }],
          "type":"tilelayer",
          "visible":true,
